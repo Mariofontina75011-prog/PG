@@ -1,0 +1,14 @@
+{
+  "name": "pizza-gourmet",
+  "version": "1.0.0",
+  "description": "Pizza Gourmet — serveur API + temps réel (Railway).",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "ws": "^8.18.0"
+  },
+  "engines": { "node": ">=18" }
+}
